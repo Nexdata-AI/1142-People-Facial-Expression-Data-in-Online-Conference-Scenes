@@ -3,7 +3,7 @@
 ## Description
 1,142 people facial expression data in online conference scenes, including Asian, Caucasian, black, and brown multitasking, mainly young and middle-aged, collected a variety of indoor office scenes, covering meeting rooms, coffee shops, libraries , bedroom, etc., each collector collected 7 kinds of expressions: normal, happy, surprised, sad, angry, disgusted, and fearful.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1281?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1281?source=Github
 
 
 ## Data size
